@@ -445,7 +445,6 @@ public class TreatmentInfo_1 extends JFrame implements ActionListener {
 	    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	    //panel.pack();
 	    setLocationRelativeTo(null);
-	    setVisible(true);
 		
 		
 	}

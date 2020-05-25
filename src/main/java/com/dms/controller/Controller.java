@@ -14,7 +14,7 @@ public class Controller {
 
 		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 
-		Home frame = context.getBean(Home.class);
+		Login frame = context.getBean(Login.class);
 		frame.setVisible(true);
 	}
 
